@@ -1,4 +1,4 @@
-# TRY
+# Try
 
 #### Install instructions
 ###### Install all the project dependencies
